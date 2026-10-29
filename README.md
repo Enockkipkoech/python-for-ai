@@ -1,1 +1,15 @@
 ## PYTHON FOR AI/LLM/Agents 
+-Installation
+- Data types, Lists, For Loops, Functions, Classes, Modules
+- Dict, Tuples
+-Functions
+- Classes
+- Call LLM
+- Error Handling
+- Chatbot with Memory
+- Structured Output
+- File Handling
+- API Calls using Requests
+- FastAPI
+- Database interractions
+- 
